@@ -24,16 +24,27 @@ IB-->h(docker build)
 ### Table of Contents
 
 [Basic Docker CLIs](#0)
+
 [Container Management CLIs](#1)
+
 [Inspecting the Container](#2)
+
 [Inspecting with Container](#3)
+
 [Image Management Commands](#4)
+
 [Image Transfer Commands](#5)
+
 [Builder Main Commands](#6)
+
 [The Docker CLI](#7)
+
 [Docker Security(Scout,SBOM)](#8)
+
 [Contributors](#9)
+
 [Support and Community](#10)
+
 [References](#11)
 
 <a id='0'> </a>
